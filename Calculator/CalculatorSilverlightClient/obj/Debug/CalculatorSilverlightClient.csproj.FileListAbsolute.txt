@@ -1,0 +1,12 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\Bin\Debug\CalculatorSilverlightClient.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\Bin\Debug\CalculatorSilverlightClient.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\Bin\Debug\AppManifest.xaml
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\Bin\Debug\CalculatorSilverlightClient.xap
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\Bin\Debug\CalculatorSilverlightClientTestPage.html
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\obj\Debug\CalculatorSilverlightClient.csprojResolveAssemblyReference.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\obj\Debug\App.g.cs
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\obj\Debug\MainPage.g.cs
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\obj\Debug\CalculatorSilverlightClient.g.resources
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\obj\Debug\CalculatorSilverlightClient.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\obj\Debug\CalculatorSilverlightClient.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorSilverlightClient\obj\Debug\XapCacheFile.xml

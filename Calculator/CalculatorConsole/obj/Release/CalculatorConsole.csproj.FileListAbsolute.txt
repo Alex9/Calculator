@@ -1,0 +1,5 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorConsole\bin\Release\CalculatorConsole.exe.config
+D:\GitHub_Repository\Calculator\Calculator\CalculatorConsole\bin\Release\CalculatorConsole.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorConsole\bin\Release\CalculatorConsole.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorConsole\obj\Release\CalculatorConsole.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorConsole\obj\Release\CalculatorConsole.pdb

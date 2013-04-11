@@ -1,0 +1,5 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWebFormsClient\bin\CalculatorWebFormsClient.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWebFormsClient\bin\CalculatorWebFormsClient.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWebFormsClient\obj\Release\CalculatorWebFormsClient.csprojResolveAssemblyReference.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWebFormsClient\obj\Release\CalculatorWebFormsClient.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWebFormsClient\obj\Release\CalculatorWebFormsClient.pdb

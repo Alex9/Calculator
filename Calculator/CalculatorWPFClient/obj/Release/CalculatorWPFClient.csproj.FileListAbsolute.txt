@@ -1,0 +1,12 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\bin\Release\CalculatorWPFClient.exe.config
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\bin\Release\CalculatorWPFClient.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\bin\Release\CalculatorWPFClient.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\MainWindow.baml
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\MainWindow.g.cs
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\App.g.cs
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\CalculatorWPFClient_MarkupCompile.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\CalculatorWPFClient.g.resources
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\CalculatorWPFClient.Properties.Resources.resources
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\CalculatorWPFClient.csproj.GenerateResource.Cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\CalculatorWPFClient.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Release\CalculatorWPFClient.pdb

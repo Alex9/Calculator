@@ -1,0 +1,4 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorClassLibrary\bin\Release\CalculatorClassLibrary.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorClassLibrary\bin\Release\CalculatorClassLibrary.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorClassLibrary\obj\Release\CalculatorClassLibrary.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorClassLibrary\obj\Release\CalculatorClassLibrary.pdb

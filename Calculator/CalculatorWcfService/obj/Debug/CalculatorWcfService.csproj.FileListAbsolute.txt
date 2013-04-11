@@ -1,0 +1,6 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWcfService\bin\Debug\CalculatorWcfService.dll.config
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWcfService\bin\Debug\CalculatorWcfService.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWcfService\bin\Debug\CalculatorWcfService.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWcfService\obj\Debug\CalculatorWcfService.csprojResolveAssemblyReference.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWcfService\obj\Debug\CalculatorWcfService.dll
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWcfService\obj\Debug\CalculatorWcfService.pdb

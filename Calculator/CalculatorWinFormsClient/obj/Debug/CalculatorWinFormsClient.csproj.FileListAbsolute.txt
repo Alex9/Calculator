@@ -1,0 +1,8 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\bin\Debug\CalculatorWinFormsClient.exe.config
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\bin\Debug\CalculatorWinFormsClient.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\bin\Debug\CalculatorWinFormsClient.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\obj\Debug\CalculatorWinFormsClient.csprojResolveAssemblyReference.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\obj\Debug\CalculatorWinFormsClient.Properties.Resources.resources
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\obj\Debug\CalculatorWinFormsClient.csproj.GenerateResource.Cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\obj\Debug\CalculatorWinFormsClient.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWinFormsClient\obj\Debug\CalculatorWinFormsClient.pdb

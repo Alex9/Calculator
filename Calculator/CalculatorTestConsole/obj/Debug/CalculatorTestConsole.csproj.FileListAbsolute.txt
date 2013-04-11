@@ -1,0 +1,6 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorTestConsole\bin\Debug\CalculatorTestConsole.exe.config
+D:\GitHub_Repository\Calculator\Calculator\CalculatorTestConsole\bin\Debug\CalculatorTestConsole.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorTestConsole\bin\Debug\CalculatorTestConsole.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorTestConsole\obj\Debug\CalculatorTestConsole.csprojResolveAssemblyReference.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorTestConsole\obj\Debug\CalculatorTestConsole.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorTestConsole\obj\Debug\CalculatorTestConsole.pdb

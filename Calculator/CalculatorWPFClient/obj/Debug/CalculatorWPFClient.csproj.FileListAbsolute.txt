@@ -1,0 +1,13 @@
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\bin\Debug\CalculatorWPFClient.exe.config
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\bin\Debug\CalculatorWPFClient.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\bin\Debug\CalculatorWPFClient.pdb
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\CalculatorWPFClient.csprojResolveAssemblyReference.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\MainWindow.baml
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\MainWindow.g.cs
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\App.g.cs
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\CalculatorWPFClient_MarkupCompile.cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\CalculatorWPFClient.g.resources
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\CalculatorWPFClient.Properties.Resources.resources
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\CalculatorWPFClient.csproj.GenerateResource.Cache
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\CalculatorWPFClient.exe
+D:\GitHub_Repository\Calculator\Calculator\CalculatorWPFClient\obj\Debug\CalculatorWPFClient.pdb
